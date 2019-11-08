@@ -7,4 +7,4 @@ A 3D human pose estimation project aims to solve this problem by both supervised
 ![gif]( https://github.com/Lukikay/3DHumanPoseEstiamtion/raw/master/results/Real-time_Demo_1_HD.gif )
 
 ### Qualitative Results:
-![gif](https://github.com/Lukikay/3DHumanPoseEstiamtion/raw/master/results/Qualitative_Results_Compared_between_Different_Approaches.mp4.jpg)
+<img src="https://github.com/Lukikay/3DHumanPoseEstiamtion/raw/master/results/Qualitative_Results_Compared_between_Different_Approaches.mp4.jpg" alt="gif" style="zoom: 45%;" />
